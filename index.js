@@ -3,7 +3,7 @@ var musicians = ["B Young", "Geko", "Alec Benjamin"];
 var instruments = ["Piano","Guitar","Drums"];
 
 Function theBeatlesPlay (musicians,instruments) {
-  beatleArray = []
+  beatleArray = [];
   for (let i=0; i<musicians.length,i++)
   
 }
