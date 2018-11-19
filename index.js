@@ -20,16 +20,15 @@ const facts = [
 ];
 
 johnLennonFacts(facts);
-function johnLennonFacts(factArray) {
+function johnLennonFacts(array) {
   var result= []; 
   var i = 0; 
-  while(i < arr.length) {
-//     result.push(arr[i] + '!!!')
-//     i++; 
-//   }
-//   return result; 
-// }
-
-// johnLennonFacts(facts); 
+  while(i < array.length) {
+    result.push(array[i] + '!!!')
+      i++; 
+      }
+  return result; 
 }
+
+johnLennonFacts(facts); 
 }
