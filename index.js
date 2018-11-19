@@ -30,5 +30,4 @@ function johnLennonFacts(array) {
   return result; 
 }
 
-johnLennonFacts(facts); 
-}
+johnLennonFacts(facts);
